@@ -1,7 +1,7 @@
 ### Hi there, I'm Amine 👋
 
 
-## I'm a Developer and Artificial Intelligence enthusiast!
+## I'm a Developer and AI enthusiast!
 
 - 🔭 I’m currently working on a little project!
 - 🌱 I’m currently learning everything 🤣
