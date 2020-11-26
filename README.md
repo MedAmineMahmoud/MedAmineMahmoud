@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=MedAmineMahmoud&color=ff69b4)
+
 ### Hi there, I'm Amine 👋
 
 
@@ -29,7 +31,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-![](https://komarev.com/ghpvc/?username=MedAmineMahmoud&color=ff69b4)
 
 ## My toolkit
 <p>
