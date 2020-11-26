@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MedAmineMahmoud&color=ff69b4)
 
-### Hi there, I'm Amine 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Amine  
 
 
 ## I'm a Developer and AI enthusiast!
