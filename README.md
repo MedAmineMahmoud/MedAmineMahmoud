@@ -15,7 +15,6 @@
 [<img align="left" alt="med_amine_mahmoud | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="med_amine_mahmoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="med_amine_mahmoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="med_amine_mahmoud| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -24,7 +23,6 @@
 
 [facebook]: https://www.facebook.com/bytelegion1/
 [twitter]: https://twitter.com/MedAmineMahmoud
-[instagram]: https://www.instagram.com/med_amine_mahmoud/
 [linkedin]: https://www.linkedin.com/in/medaminemahmoud/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
