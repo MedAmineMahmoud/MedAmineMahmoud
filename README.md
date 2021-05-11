@@ -3,12 +3,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Amine  
 
 
-## I'm a Full-Stack Web Developer and AI enthusiast!
+## I'm a Full-Stack Web Developer!
 
 - 🔭 I’m currently working on a little project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ 2020 Goals: learn more about AI
+- ⚡ 2021 Goals: learn more about Django and ML
 
 ### Connect with me:
 
